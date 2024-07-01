@@ -1,0 +1,6 @@
+fastapi
+langchain
+aiofiles
+langchain-community
+chromadb
+pypdf
